@@ -1,6 +1,6 @@
 # Ecommerce Website Using MERN
 
-- A marketplace for art and crafts to be sold
+- A marketplace for art and craft to be sold
 
 Should include the following:
 
